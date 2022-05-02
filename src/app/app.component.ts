@@ -8,7 +8,7 @@ import { empd } from './emply';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'simpleCRM';
+  title = 'CRM';
 
   displayname = false
   color = 'red'
